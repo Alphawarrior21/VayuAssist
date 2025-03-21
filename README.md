@@ -3,6 +3,8 @@
 
 **VayuAssist** is an AI-powered assistant designed to help **government policymakers** make data-driven decisions regarding **air quality and pollution control** in India. The solution combines **RAG-based contextual search**, **OpenAI GPT-3.5 Turbo LLM**, and **interactive dashboards** to visualize AQI data and provide mitigation strategies.
 
+<img src="images/VayuAssistRAGAIChatBot.png" alt="Image" width="600"/>
+
 ---
 
 ## 🚀 **Features**
